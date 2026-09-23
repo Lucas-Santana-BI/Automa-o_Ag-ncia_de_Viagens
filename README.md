@@ -13,6 +13,15 @@ O objetivo do painel/pipeline é eliminar processos manuais de digitação, que 
 
 ---
 
+## 📊 Impacto e Resultados Alcançados
+
+A implementação deste *pipeline* gerou um impacto direto na operação e produtividade da equipa de *back-office*:
+
+* **Redução Drástica de Tempo (SLA):** O processamento de um bilhete, que demorava em média **5 a 7 minutos** manualmente, passou a ser extraído e contabilizado em **menos de 30 segundos** (uma redução de tempo superior a 90%).
+* **Mitigação de Riscos e Erros Humanos:** Redução drástica nas falhas operacionais, como erros de digitação em valores de comissão (RAV/DU) ou troca de datas, que antes geravam prejuízos financeiros para a agência.
+* **Ganho de Capacidade Produtiva:** A equipe poupou dezenas de horas mensais em trabalho repetitivo, redirecionando o foco para o atendimento consultivo e vendas de alto valor acrescentado.
+
+
 ## 👨‍💻 Escopo de Atuação (End-to-End)
 Neste projeto, fui o responsável integral pelo ciclo de vida da automação, atuando desde o desenho da arquitetura até o deploy do script. Minhas responsabilidades incluíram:
 
