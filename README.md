@@ -63,7 +63,7 @@ O projeto foi estruturado integrando engenharia de software e regras de negócio
   * Criação de uma rotina de varredura que identifica a "primeira linha vazia real" com base na coluna de passageiros.
   * Injeção de fórmulas ativas nativas em inglês (`=SUM(...)`) amarradas diretamente na linha processada, garantindo recálculo em tempo real se a agência alterar alguma tarifa manualmente (com conversão nativa automática para `=SOMA()` no Brasil).
 
-  <img width="675" height="81" alt="image" src="https://github.com/user-attachments/assets/5abdd5e4-81f3-4d28-8e5b-bdc8536dd4f4" />
+<img width="675" height="81" alt="image" src="https://github.com/user-attachments/assets/5abdd5e4-81f3-4d28-8e5b-bdc8536dd4f4" />
 
 
 
